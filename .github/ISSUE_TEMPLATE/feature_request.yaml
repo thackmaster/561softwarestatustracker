@@ -1,6 +1,5 @@
 name: "Feature Request"
 description: "What would you like to see that would improve this application?"
-title: "[Feature Request] "
 labels: ["enhancement"]
 assignees:
   - thackmaster
