@@ -1,0 +1,67 @@
+name: Bug report
+about: Create a report to help us improve
+title: '[BUG] '
+labels: ["bug"]
+assignees:
+  - thackmaster
+body:
+---
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. name@example.com (or your Air Force email)
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Also tell us what you expected to happen. Please be clear and concise. Ex, When I clicked a button, this happened. I expected another thing to happen.
+      placeholder: Tell us what happened!
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: How can we reproduce this?
+      description: What did you do to get this to happen? How can we replicate it? Please be clear and provide steps on how you did it. Ex, step 1, open page. step 2, click button. step 3, observe error.
+      placeholder: How did you do that?
+      value: "The steps!"
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: What browsers are you seeing the problem in?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Microsoft Edge
+  - type: checkboxes
+    id: contact-acknowledgment
+    attributes:
+      label: Acknowledgment
+      description: By submitting this issue/bug report, you agree that you may be contacted by a developer/maintainer if more information is needed.
+      options:
+        - label: I agree that I may be contacted by a developer/maintainer if more information is needed.
+          required: true
+   - type: checkboxes
+      id: contact-acknowledgment
+      attributes:
+        label: Acknowledgment
+        description: By submitting this issue/bug report, you agree that you may be contacted by a developer/maintainer if more information is needed.
+        options:
+          - label: I agree that I may be contacted by a developer/maintainer if more information is needed.
+            required: true
+   - type: markdown
+      attributes:
+        value: |
+          If there are applicable screenshots, please post them in a reply to this report.
