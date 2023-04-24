@@ -5,7 +5,6 @@ labels: ["bug"]
 assignees:
   - thackmaster
 body:
----
   - type: markdown
     attributes:
       value: |
