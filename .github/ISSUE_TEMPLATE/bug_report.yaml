@@ -52,14 +52,6 @@ body:
       options:
         - label: I agree that I may be contacted by a developer/maintainer if more information is needed.
           required: true
-  - type: checkboxes
-     id: contact-acknowledgment
-     attributes:
-       label: Acknowledgment
-       description: By submitting this issue/bug report, you agree that you may be contacted by a developer/maintainer if more information is needed.
-       options:
-         - label: I agree that I may be contacted by a developer/maintainer if more information is needed.
-           required: true
   - type: markdown
      attributes:
        value: |
