@@ -53,6 +53,6 @@ body:
         - label: I agree that I may be contacted by a developer/maintainer if more information is needed.
           required: true
   - type: markdown
-     attributes:
+    attributes:
        value: |
          If there are applicable screenshots, please post them in a reply to this report.
