@@ -22,15 +22,15 @@ body:
     attributes:
       label: What happened?
       description: Also tell us what you expected to happen. Please be clear and concise. Ex, When I clicked a button, this happened. I expected another thing to happen.
-      value: "A bug happened!"
+      placeholder: Tell us what happened!
     validations:
       required: true
   - type: textarea
     id: reproduce
     attributes:
       label: How can we reproduce this?
-      description: What did you do to get this to happen? How can we replicate it? Please be clear and provide steps on how you did it. Ex, step 1, open page. step 2, click button. step 3, observe error.
-      value: "The steps!"
+      description: What did you do to get this to happen? How can we replicate it? Please be clear and provide steps on how you did it. Ex, step 1, open page. step 2, click button. step 3, observe error.\
+      placeholder: How did you do that?
     validations:
       required: true
   - type: dropdown
