@@ -1,0 +1,55 @@
+name: "Feature Request"
+description: "What would you like to see that would improve this application?"
+title: "[Feature Request] "
+labels: ["feature request"]
+assignees:
+  - thackmaster
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request!
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. name@example.com (or your Air Force email)
+    validations:
+      required: true
+  - type: input
+    id: related
+    attributes:
+      label: Is this related to a problem?
+      description: Please be clear and concise on what the issue is (or referece the URL/ID if it has already been submitted).
+      placeholder: "I'm always frustrated when..."
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: "Describe the solution you'd like to see"
+      description: "Please be clear and concise in what you'd like to see."
+      placeholder: "I'd like to be able to ... when ..."
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Describe some alternatives
+      description: "If you've seen this elsewhere, tell us where! This helps us visualize what you're wanting to see."
+      placeholder: "I've seen this on this commercial site.... It's kind of similar to this thing this other site has...."
+    validations:
+      required: true
+  - type: checkboxes
+    id: contact-acknowledgment
+    attributes:
+      label: Acknowledgment
+      description: By submitting this feature request, you agree that you may be contacted by a developer/maintainer if more information is needed.
+      options:
+        - label: I agree that I may be contacted by a developer/maintainer if more information is needed.
+          required: true
+  - type: markdown
+    attributes:
+       value: |
+         Additional context, such as screenshots, should be posted in a reply to this request.
