@@ -12,4 +12,4 @@ For the best experience, please create or log in with a GitHub account. This wil
 
 
 # FAQ
-An extensive FAQ can be found in the [WIKI](https://github.com/thackmaster/561softwarestatustracker/wiki) tab.
+An extensive FAQ can be found in the [:question: Wiki](https://github.com/thackmaster/561softwarestatustracker/wiki) tab.
