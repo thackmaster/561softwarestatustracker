@@ -1,5 +1,15 @@
 # Welcome to the 561 Software Status Tracker!
 
-Here, we'll document how to use the app. For current issues, please visit the "[Issues](https://github.com/thackmaster/561softwarestatustracker/issues/)" tab. Feature Requests can also be found under the "[Issues](https://github.com/thackmaster/561softwarestatustracker/issues/)" tab. Ask questions, discuss with the devs, or whatever really under the "[Discussions](https://github.com/thackmaster/561softwarestatustracker/discussions/)" tab.
+[KNOWN ISSUES](https://github.com/thackmaster/561softwarestatustracker/issues/)
 
-Yes, the source code for this app is correct. To get it to work, you'll need to import the .zip file into Power Apps. Our documentation goes over how to do this correctly.
+[BUG REPORT](https://github.com/thackmaster/561softwarestatustracker/issues/new?assignees=thackmaster&labels=bug&template=bug_report.yaml)
+
+[FEATURE REQUESTS](https://github.com/thackmaster/561softwarestatustracker/issues/new?assignees=thackmaster&labels=enhancement&template=feature_request.yaml)
+
+[DISCUSSIONS](https://github.com/thackmaster/561softwarestatustracker/discussions/)
+
+For the best experience, please create or log in with a GitHub account. This will allow you to keep track of issues you submit, features you request, and participate in discussions.
+
+
+# FAQ
+An extensive FAQ can be found in the [WIKI](https://github.com/thackmaster/561softwarestatustracker/wiki) tab.
