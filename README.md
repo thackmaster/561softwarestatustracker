@@ -4,7 +4,7 @@
 
 [:bug: SUBMIT A BUG REPORT](https://github.com/thackmaster/561softwarestatustracker/issues/new?assignees=thackmaster&labels=bug&template=bug_report.yaml)
 
-[:new: SUBMIT A FEATURE REQUESTS](https://github.com/thackmaster/561softwarestatustracker/issues/new?assignees=thackmaster&labels=enhancement&template=feature_request.yaml)
+[:new: SUBMIT A FEATURE REQUEST](https://github.com/thackmaster/561softwarestatustracker/issues/new?assignees=thackmaster&labels=enhancement&template=feature_request.yaml)
 
 [:speech_balloon: DISCUSSIONS](https://github.com/thackmaster/561softwarestatustracker/discussions/)
 
