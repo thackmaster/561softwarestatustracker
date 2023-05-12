@@ -15,7 +15,7 @@ body:
       description: How can we get in touch with you if we need more info?
       placeholder: ex. name@example.com (or your Air Force email)
     validations:
-      required: true
+      required: false
   - type: input
     id: related
     attributes:
