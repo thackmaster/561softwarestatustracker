@@ -23,7 +23,7 @@ body:
       description: Please be clear and concise on what the issue is (or referece the URL/ID if it has already been submitted).
       placeholder: "I'm always frustrated when..."
     validations:
-      required: true
+      required: false
   - type: textarea
     id: solution
     attributes:
@@ -39,7 +39,7 @@ body:
       description: "If you've seen this elsewhere, tell us where! This helps us visualize what you're wanting to see."
       placeholder: "I've seen this on this commercial site.... It's kind of similar to this thing this other site has...."
     validations:
-      required: true
+      required: false
   - type: checkboxes
     id: contact-acknowledgment
     attributes:
