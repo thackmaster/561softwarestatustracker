@@ -28,7 +28,7 @@ body:
     id: reproduce
     attributes:
       label: How can we reproduce this?
-      description: What did you do to get this to happen? How can we replicate it? Please be clear and provide steps on how you did it. Ex, step 1, open page. step 2, click button. step 3, observe error.\
+      description: What did you do to get this to happen? How can we replicate it? Please be clear and provide steps on how you did it. Ex, step 1, open page. step 2, click button. step 3, observe error.
       placeholder: How did you do that?
     validations:
       required: true
