@@ -1,14 +1,12 @@
 # Welcome to the 561st NOS Software Status Tracker!
 
+For the best experience, please create or log in with a GitHub account. This will allow you to keep track of issues you submit and features you request.
+
 [:anger: KNOWN ISSUES](https://github.com/thackmaster/561softwarestatustracker/issues/)
 
 [:bug: SUBMIT A BUG REPORT](https://github.com/thackmaster/561softwarestatustracker/issues/new?assignees=thackmaster&labels=bug&template=bug_report.yaml)
 
 [:new: SUBMIT A FEATURE REQUEST](https://github.com/thackmaster/561softwarestatustracker/issues/new?assignees=thackmaster&labels=enhancement&template=feature_request.yaml)
-
-[:speech_balloon: DISCUSSIONS](https://github.com/thackmaster/561softwarestatustracker/discussions/)
-
-For the best experience, please create or log in with a GitHub account. This will allow you to keep track of issues you submit, features you request, and participate in discussions.
 
 
 # FAQ
