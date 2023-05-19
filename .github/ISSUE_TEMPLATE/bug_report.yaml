@@ -32,6 +32,14 @@ body:
       placeholder: How did you do that?
     validations:
       required: true
+  - type: textarea
+    id: attachments
+    attributes: 
+      label: Attachments
+      description: Attach any applicable screenshots or logs here.
+      placeholder: Look at this error!
+    validations:
+      required: false
   - type: dropdown
     id: browsers
     attributes:
@@ -49,7 +57,3 @@ body:
       options:
         - label: I agree that I may be contacted by a developer/maintainer if more information is needed.
           required: true
-  - type: markdown
-    attributes:
-       value: |
-         If there are applicable screenshots, please post them in a reply to this report.
