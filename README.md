@@ -8,6 +8,11 @@ For the best experience, please create or log in with a GitHub account. This wil
 
 [:new: SUBMIT A FEATURE REQUEST](https://github.com/thackmaster/561softwarestatustracker/issues/new?assignees=thackmaster&labels=enhancement&template=feature_request.yaml)
 
+[](https://github.com/thackmaster/561softwarestatustracker/milestones)
 
-# FAQ
+
+## FAQ
 An extensive FAQ can be found in the [:question: Wiki](https://github.com/thackmaster/561softwarestatustracker/wiki) tab.
+
+## Future Plans
+Wanna see what we have planned for the future? Check it out inside of the "Issues" tab. Click "Milestones
