@@ -8,6 +8,8 @@ For the best experience, please create or log in with a GitHub account. This wil
 
 [:raising_hand: SUBMIT A FEATURE REQUEST](https://github.com/thackmaster/561softwarestatustracker/issues/new?assignees=thackmaster&labels=enhancement&template=feature_request.yaml)
 
-[:new: VERSION RELEASES](https://github.com/thackmaster/561softwarestatustracker/milestones)
+[:new: RELEASE VERSIONS](https://github.com/thackmaster/561softwarestatustracker/releases)
+
+[:calendar: UPCOMING VERSIONS](https://github.com/thackmaster/561softwarestatustracker/milestones)
 
 [:question: WIKI](https://github.com/thackmaster/561softwarestatustracker/wiki)
