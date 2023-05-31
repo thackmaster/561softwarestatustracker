@@ -11,6 +11,3 @@ For the best experience, please create or log in with a GitHub account. This wil
 [:new: VERSION RELEASES](https://github.com/thackmaster/561softwarestatustracker/milestones)
 
 [:question: WIKI](https://github.com/thackmaster/561softwarestatustracker/wiki)
-
-## Future Plans
-Wanna see what we have planned for the future? Check it out inside of the "Issues" tab. Click "Milestones
