@@ -48,7 +48,3 @@ body:
       options:
         - label: I agree that I may be contacted by a developer/maintainer if more information is needed.
           required: true
-  - type: markdown
-    attributes:
-       value: |
-         Additional context, such as screenshots, should be posted in a reply to this request.
