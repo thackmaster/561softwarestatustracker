@@ -20,7 +20,7 @@ body:
     id: related
     attributes:
       label: Is this related to a problem?
-      description: Please be clear and concise on what the issue is (or referece the URL/ID if it has already been submitted).
+      description: Please be clear and concise on what the issue is (or reference the URL/ID if it has already been submitted).
       placeholder: "I'm always frustrated when..."
     validations:
       required: false
